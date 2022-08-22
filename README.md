@@ -2,7 +2,7 @@
 
 Create folder
 firebase init hosting
-firebase init functions (make sure youre on bkaze plan"
+firebase init functions (make sure youre on blaze plan"
 install express and cors in functions folder
 redirect traffic in firebase.json
 build express app in functions/index.js
